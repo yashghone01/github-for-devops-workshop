@@ -1,0 +1,23 @@
+   3 ls
+   4 ls -l
+   5 clear
+   6 ls -l
+   7 clear
+   8 gitinit
+   9 git init
+  10 ls -a
+  11 clear
+  12 git status
+  13 ls
+  14 git status
+  15 git add testing.py
+  16 git status
+  17 git commit -m "added tedting file"
+  18 git status
+  19 clear
+  20 rm .\testing.py
+  21 git status
+  22 restore testing.py
+  23 git restore testing.py
+  24 clear
+  25 git status
